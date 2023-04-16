@@ -44,6 +44,11 @@ const data = [
                 description: "Given a string s and an integer k, return the length of the longest substring of s that contains at most k distinct characters.",
                 link: "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/"
             },
+            {
+                title: "1456. Maximum Number of Vowels in a Substring of Given Length",
+                description: "Given a string s and an integer k, return the maximum number of vowel letters in any substring of s with length k.",
+                link: "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/"
+            },
         ]    
     },
     {
